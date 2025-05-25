@@ -4,3 +4,5 @@ Este repositorio contiene una recopilación de los proyectos desarrollados duran
 
 # 🚨| Atención
 Para el correcto funcionamiento de esta recopilación, es necesario descomprimir la carpeta de recursos adjunta en su directorio general de su usuario de Windows.
+
+![image](https://github.com/user-attachments/assets/95549a32-1139-4ea0-9218-f3c1a4ab2cbc)
