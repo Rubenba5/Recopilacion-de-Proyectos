@@ -2365,7 +2365,7 @@ def informacion(panel_derecho, COLOR_PANEL):
 def abrir_repositorio():
     import webbrowser
 
-    webbrowser.open("https://github.com/Rubenba5/Curso-Python")
+    webbrowser.open("https://github.com/Rubenba5/Curso-Python-Total")
 
 
 # Boton Pagina Web
